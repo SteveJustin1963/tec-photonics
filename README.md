@@ -1,4 +1,7 @@
 # tec-photonics
+
+An Opto-Analog system
+
 ## tec1 photonics computer - use optical manipulation to encode and process data
 
 Processing with light, or using light as a medium for computation, is an emerging field known as "optical computing." While there have been advancements in using light for certain aspects of computing, such as optical communication and data transfer, fully functional light-based CPUs are still largely in the experimental stage and have not yet become mainstream.
